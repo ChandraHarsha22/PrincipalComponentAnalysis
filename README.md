@@ -1,0 +1,1 @@
+Principal Componenet analysis here was done to reduce the dimenionality of healthcare data from a developing country. This was the first step to create a correlation between the variables and poverty levels in the community
